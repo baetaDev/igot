@@ -3,7 +3,7 @@
 Sistema IGOT em desenvolvimento
 
 # Visão geral
-Sistema foi contruido utilizando o framework Laravel v9.24.0 , PHP v8.1.6, ADMINLTE v3 e Bootstrap 4
+Sistema foi construido utilizando o framework Laravel v9.24.0 , PHP v8.1.6, ADMINLTE v3 e Bootstrap 4
 
 # Requisitos
 Composer
