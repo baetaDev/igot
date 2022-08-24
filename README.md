@@ -24,7 +24,7 @@ ou
 
 $ composer install update
 
-## Execute a aplicação em modo de desenvolvimento
+## Execute a aplicação em modo de desenvolvimento sem docker
 Criar um banco de dados no phpmyadmin chamado igot2 ou renomear para o nome desejado no arquivo .env na raiz do projeto.
 
 $ php artisan key:generate
@@ -38,3 +38,9 @@ $ php artisan serve
 $ npm run dev 
 
 $ php artisan db:seeed   -> para rodar os usuarios pre cadastrados
+
+
+## Docker
+
+LARADOCKER
+https://laradock.io/
