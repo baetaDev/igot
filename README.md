@@ -36,3 +36,5 @@ Rodar os comandos abaixo em terminais diferentes:
 $ php artisan serve
 
 $ npm run dev 
+
+$ php artisan db:seeed   -> para rodar os usuarios pre cadastrados
